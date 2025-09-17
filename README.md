@@ -13,19 +13,24 @@ test using tushar2704 code
 Welcome to my personal Power BI portfolio repository! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligence, and analytics using Power BI.
 
 ## About Me
-I am a passionate data enthusiast with a strong background in Power BI. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards, and helping businesses make data-driven decisions. This portfolio showcases my proficiency in Power BI and highlights my ability to effectively communicate complex data visually. Visit [Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)
+I am a passionate data enthusiast with a strong background in Power BI. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards, and helping businesses make data-driven decisions. This portfolio showcases my proficiency in Power BI and highlights my ability to effectively communicate complex data visually. Visit [LinkedIn] (https://www.linkedin.com/in/sonia-guzmanhabegger/)
+
 
 ---
-- [<ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>](https://www.tushar-aggarwal.com/)
----
-## [Project 1: Sales Dashboard](https://tushar-aggarwal.com/httpsgithubcomtushar2704consumablessalesdashboard)
+## [Project 1: La Table de Max - sales analysis ](https://github.com/soniaguzmanhabegger/La-Table-de-Max)
 
-Consumable Sales Dashboard, a powerful and intuitive data visualization tool built using Power BI. This dashboard offers a comprehensive view of sales data for consumable products, allowing you to quickly and easily analyze performance and identify trends.
+report about ficitional restaurant chain in France
+
+
 ## Preview
 
-![sales](https://github.com/tushar2704/tushar2704-GIFs/blob/main/salesd1.gif)
+![sales](https://github.com/soniaguzmanhabegger/La-Table-de-Max.pdf)
 
-## [Project 2: Superstore Sales Dashboard with Streamlit](https://github.com/soniaguzmanhabegger/La-Table-de-Max))
+
+
+
+
+## [Project 2: Maven Toys](https://github.com/soniaguzmanhabegger/La-Table-de-Max)
 
 
 
@@ -37,7 +42,7 @@ Superstore Sales with Streamlit is a data visualization and analysis project tha
 
 
 
-## [Project 3: Human Resource Dashboard](https://www.novypro.com/project/human-resource-dashboard-2)
+## [Project 3: CRM Anamysis (https://www.novypro.com/project/human-resource-dashboard-2)
 
 ### Preview
 
@@ -69,20 +74,15 @@ Exploring a treasure trove of insights and captivating visualizations drawn from
 
 ## Contact Information
 
-If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at [info@tushar-aggarwal.com](mailto:info@tushar-aggarwal.com) or connect with me on LinkedIn at [Tushar Aggarwal](https://www.linkedin.com/in/yourname).
+If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at [mailto:sonia.guzmanhabegger@gmail.com ]or connect with me on LinkedIn at [Sonia Guzman Habegger](https://www.linkedin.com/in/sonia-guzmanhabegger/).
 
 Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
 
 
-
 ## Author
-- [<ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>](https://www.tushar-aggarwal.com/)
-- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
-- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
-- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
-- <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
+- <b>[LinkedIn](https://www.linkedin.com/in/sonia-guzmanhabegger/))</b>
 
-  
+
 ## License
 Due to the extensive time invested in projects development and in consideration of privacy concerns, the some PBIX fils are currently not publicly accessible on GitHub. Should anyone have an interest in obtaining access to the code, please do not hesitate to contact me directly. Your understanding is greatly appreciated. Please check out my [NovyPro](https://www.novypro.com/profile_projects/tusharagg) profile. Thank you
 
